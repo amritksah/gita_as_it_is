@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "923027360996",
+    "project_id": "bhagavad-gita-as-it-is-109d3",
+    "storage_bucket": "bhagavad-gita-as-it-is-109d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923027360996:android:efafc98eba0e8c231eb0f1",
+        "android_client_info": {
+          "package_name": "com.example.gita_as_it_is"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiEbttgxCh9IZkH2tG76iDgcM6z0VwOuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
